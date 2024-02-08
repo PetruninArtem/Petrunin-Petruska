@@ -1,0 +1,51 @@
+h1 {
+color: red;
+border: 10px double pink;
+font-size: 2em;
+}
+.danger {
+color: red;
+}
+h2 {
+color: green;
+border: 3px dashed yellow;
+}
+.second-h2-title{
+color: red;
+border: 3px dashed yellow;
+}
+dt {
+color: red;
+border: 3px dashed brown;
+}
+p{
+color: dark-blue;
+border: 2px solid blue
+}
+dd{
+color: pink;
+border: 2px dashed blue
+}
+
+skills dd {
+background-color: #e8e8e8;
+margin: 0
+margin-bottom: 10px
+}
+
+pre{
+color: brown;
+border: 2px solid red;
+}
+footer {
+padding-top: 20px; 
+background-color: #283618;
+}    
+body {
+font-size: 16px;
+line-height: 26px;
+background:#ffffff url("bg.png")no-repeat top center
+}         
+main {
+border: 5px solid #2d508f;
+}	
